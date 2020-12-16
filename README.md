@@ -1,2 +1,2 @@
 # algorithms
-Implementation of well-known algorithms in an efficient way.
+Implementation of Quick Sort Algorithm in C++.
